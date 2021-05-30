@@ -1,5 +1,5 @@
 import { observer } from 'mobx-react-lite';
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { useParams } from 'react-router';
 import { Link } from 'react-router-dom';
 import { Button, Card, Image } from 'semantic-ui-react';
